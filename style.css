@@ -30,6 +30,11 @@ nav {
    background-color:white;
 }
 
+.footer {
+  padding: 10px;
+  text-align: center;
+  border: 5px, solid, black;
+}
 
 
 
