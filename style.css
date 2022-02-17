@@ -50,6 +50,11 @@ p4{
   text-align: center;
 }
 
+.lijst{
+  color:#f2f2f2 ;
+}
+
+
 .navbar {
   background-color: #333;
   overflow: hidden;
@@ -102,9 +107,7 @@ p{
   color:#8f87c4 ;
 }
 
-.images{
-  text-align: center; 
-}
+
 
 .youtube{
   text-align: center;
@@ -140,11 +143,8 @@ input[type=submit]:hover {
   padding: 20px;
 }
 
-@media (max-width: 600px) {
-.fcf-body{
-  
-}
-}
+
+
 
 
 
