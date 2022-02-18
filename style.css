@@ -59,6 +59,10 @@ p4{
   margin: 50px;
 }
 
+.money td{
+  border: 1px solid #8f87c4;
+}
+
 .lijst{
   color:#f2f2f2 ;
 }
