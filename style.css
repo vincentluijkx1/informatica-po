@@ -1,11 +1,7 @@
 
-
 body{
     background-image: url('https://bnetcmsus-a.akamaihd.net/cms/page_media/4g/4GYULUE805VZ1471973978379.gif');
     background-size: cover;
-    
-    
-    
     height: 100vh;
     padding:0;
     margin:0;
@@ -40,6 +36,8 @@ p{
   color:#8f87c4;
   border-radius: 5px;
   padding: 5px;
+  margin: 50px
+ 
 }
 
 p1{
@@ -50,6 +48,16 @@ p4{
   text-align: center;
 }
 
+.money{
+  width:100%;
+  color:#8f87c4;
+  border:1px solid black;
+  border-color: #8f87c4; 
+   border-radius: 5px;
+   padding: 5px;
+  background-color: #2c2c30;
+  margin: 50px;
+}
 
 .lijst{
   color:#f2f2f2 ;
@@ -144,21 +152,6 @@ input[type=submit]:hover {
   background-color: #2c2c30;
   padding: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
